@@ -1,8 +1,8 @@
 ## Frank Firke
-## 9/5/2018
+## Numbers as of 9/5/2018
 
 ## PA estimates centered on 90, which is normal for PECOTA as of writing
-## Probs come from 
+## Probs come from ZiPS, implied PECOTA, and season to date
 
 PA <- seq(75,105,5)
 probs <- c(.305,.319,.337)
